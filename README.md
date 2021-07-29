@@ -8,9 +8,9 @@
 <p align="center">
  
 </p>
-<a href="https://facebook.com/samyogkhatiwadaa"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.linkedin.com/in/samyogkhatiwada/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:hello@samyog.me"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://facebook.com/samyogkhatiwadaa"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/samyogkhatiwada/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:hello@samyog.me"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
