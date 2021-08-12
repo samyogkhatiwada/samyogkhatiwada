@@ -45,8 +45,4 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyogkhatiwada&theme=react&layout=compact" />
 </p>
 
-------
 
-[BrantLauro](https://github.com/BrantLauro)
-
-Last Edited on: 05/08/2021
