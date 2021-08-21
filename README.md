@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samyog <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End  developer</h3>
+<!-- <h3 align="center">A passionate Python and Front-End  developer</h3> -->
 
 - 👀 I’m interested in web development...
 - 🌱 I’m currently learning python...
